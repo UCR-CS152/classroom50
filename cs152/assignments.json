@@ -1,4 +1,32 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "compiler-project",
+      "name": "Compiler Project",
+      "mode": "team",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "CS152-SP26",
+        "repo": "compiler-template",
+        "branch": "main"
+      },
+      "available_from": "2026-09-25T01:30:00Z",
+      "available_from_meta": {
+        "input": "2026-09-24T18:30:00",
+        "zone": "America/Los_Angeles",
+        "offset": "-07:00",
+        "source": "auto-detected"
+      },
+      "max_group_size": 2,
+      "team_formation": "student",
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
