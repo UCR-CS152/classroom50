@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "CS152",
+  "short_name": "cs152",
+  "term": "Fall 2026",
+  "org": "CS152-SP26",
+  "team": {
+    "id": 19673758,
+    "slug": "classroom50-cs152"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19673760,
+      "slug": "classroom50-cs152-teacher"
+    },
+    "hta": {
+      "id": 19673761,
+      "slug": "classroom50-cs152-hta"
+    },
+    "ta": {
+      "id": 19673762,
+      "slug": "classroom50-cs152-ta"
+    }
+  }
+}
