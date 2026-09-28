@@ -11,7 +11,7 @@
       "copy_about": true,
       "copy_topics": true,
       "template": {
-        "owner": "CS152-SP26",
+        "owner": "UCR-CS152",
         "repo": "compiler-template",
         "branch": "main"
       },
