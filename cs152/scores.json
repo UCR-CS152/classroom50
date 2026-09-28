@@ -1,4 +1,11 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "compiler-project": {
+      "type": "team",
+      "entries": [],
+      "collected_at": "2026-09-28T21:25:54Z",
+      "detected": []
+    }
+  }
 }
